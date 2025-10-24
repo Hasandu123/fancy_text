@@ -1,1 +1,2 @@
-https://hasandu123.github.io/arise/
+#website
+ https://hasandu123.github.io/fancy_text/
